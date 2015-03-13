@@ -1,0 +1,25 @@
+Sudoku (?? sudoku?, Digit-single) Listeni/su?'do?ku?/, originally called Number Place,[1] is a logic-based,[2][3] combinatorial[4] number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid (also called "boxes", "blocks", "regions", or "sub-squares") contains all of the digits from 1 to 9.
+
+Number of permutations for 9 digit numbers containing the values 1,2,3,4,5,6,7,8,9 with no repeats and no 0 values: 362,880
+
+Number of possible rows starting from a blank sudoku puzzle generating one row at a time. Each row holds to the rules of sudoku.
+first row: 362880
+second Row: 12096
+third row: 755
+fourth Row 12096
+fifth row: 400
+sixth row: 8
+seventh row: 216
+eighth row: 8
+ninth row: 1
+
+
+For one seed row there are 610,835,437,191,168,000 Permutations Total.
+
+Wich brings us to. 
+221,659,963,447,931,043,840,000 - Total permutations of Sudoku puzzles.
+
+
+
+if 1 puzzle == 1 byte of data
+actual 1 puzzle = 120 bytes

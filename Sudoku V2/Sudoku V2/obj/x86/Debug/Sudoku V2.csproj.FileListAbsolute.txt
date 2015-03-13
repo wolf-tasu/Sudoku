@@ -1,0 +1,30 @@
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.exe.config
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.exe.manifest
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.application
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.exe
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.pdb
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku_V2.AboutBox1.resources
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku_V2.SudokuForm.resources
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku_V2.Properties.Resources.resources
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku_V2.SettingsForm.resources
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.exe.manifest
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.application
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.exe
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.pdb
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.csprojResolveAssemblyReference.cache
+C:\Users\Tasu-DevPC\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.csproj.GenerateResource.Cache
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.exe.config
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.exe
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.pdb
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.exe.manifest
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.application
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.exe
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\bin\Debug\Sudoku V2.pdb
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.csprojResolveAssemblyReference.cache
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku_V2.AboutBox1.resources
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku_V2.SudokuForm.resources
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku_V2.Properties.Resources.resources
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku_V2.SettingsForm.resources
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.csproj.GenerateResource.Cache
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.exe.manifest
+D:\To Backup\MyProjects\Sudoku V2\Sudoku V2\obj\x86\Debug\Sudoku V2.application

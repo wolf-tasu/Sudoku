@@ -1,0 +1,21 @@
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.exe
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.pdb
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.exe
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.pdb
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.exe.config
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.exe
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.pdb
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.exe
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.pdb
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.exe.manifest
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.application
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.TrustInfo.xml
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.exe.manifest
+C:\Users\Tasu-DevPC\Desktop\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.application
+D:\To Backup\New folder\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.exe
+D:\To Backup\New folder\PermutateSudokuV2\PermutateSudokuV2\obj\x86\Debug\PermutateSudokuV2.pdb
+D:\To Backup\New folder\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.exe.config
+D:\To Backup\New folder\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.exe
+D:\To Backup\New folder\PermutateSudokuV2\PermutateSudokuV2\bin\Debug\PermutateSudokuV2.pdb

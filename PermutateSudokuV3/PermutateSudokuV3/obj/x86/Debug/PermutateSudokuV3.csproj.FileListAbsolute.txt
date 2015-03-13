@@ -1,0 +1,10 @@
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV3\PermutateSudokuV3\bin\Debug\PermutateSudokuV3.exe
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV3\PermutateSudokuV3\bin\Debug\PermutateSudokuV3.pdb
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV3\PermutateSudokuV3\obj\x86\Debug\PermutateSudokuV3.exe
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV3\PermutateSudokuV3\obj\x86\Debug\PermutateSudokuV3.pdb
+C:\Users\Tasu-DevPC\MyProjects\PermutateSudokuV3\PermutateSudokuV3\obj\x86\Debug\PermutateSudokuV3.csprojResolveAssemblyReference.cache
+D:\To Backup\MyProjects\PermutateSudokuV3\PermutateSudokuV3\obj\x86\Debug\PermutateSudokuV3.exe
+D:\To Backup\MyProjects\PermutateSudokuV3\PermutateSudokuV3\obj\x86\Debug\PermutateSudokuV3.pdb
+D:\To Backup\MyProjects\PermutateSudokuV3\PermutateSudokuV3\bin\Debug\PermutateSudokuV3.exe
+D:\To Backup\MyProjects\PermutateSudokuV3\PermutateSudokuV3\bin\Debug\PermutateSudokuV3.pdb
+D:\To Backup\MyProjects\PermutateSudokuV3\PermutateSudokuV3\obj\x86\Debug\PermutateSudokuV3.csprojResolveAssemblyReference.cache
